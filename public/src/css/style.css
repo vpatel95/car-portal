@@ -1,0 +1,91 @@
+/**
+*	CSS for car-portal
+*	Author : Ved Patel
+**/
+
+/* WELCOME PAGE */
+
+body {
+	background-color: #fff;
+	overflow-x: hidden;
+}
+
+header .row {
+	margin-right: 30px;
+}
+
+.header-modals-link {
+	float: right;
+	display: inline-flex;
+	list-style: none;
+}
+
+.signup, .login {
+	color: #009688;
+	cursor: pointer;
+}
+
+.signup {
+	padding-right: 20px;
+}
+
+.jumbo {
+	text-align: center;
+	color: #009688;
+	font-size: 630%;
+	font-weight: 600;
+	font-family: 'Lato';
+}
+
+.xlarge {
+	text-align: center;
+	color: #009688;
+	font-size: 375%;
+	font-weight: 600;
+	font-family: 'Lato';
+}
+
+main .container .slogan {
+	padding-top: 20%;
+}
+
+/* DASHBOARD - POST RIDE */
+
+.travel-det,
+.car-driver-det {
+	margin-top: 130px;
+}
+
+/* FOOTER */
+footer {
+	margin-top: 60px;
+	color: white;
+	background-color: #333;
+	height: 200px;
+	width: 100%;
+}
+
+/* FIND RIDE */
+
+.dummy {
+	margin-top:50px;
+}
+
+.post {
+	margin-bottom :30px;
+}
+
+.post-content {
+	text-align: center;
+	padding: 35px 0px;
+	font-size: 16px;
+}
+
+.dp {
+	padding: 20px 0px 20px 20px;
+}
+
+.more {
+	padding: 35px 20px 35px 0px;
+}
+
